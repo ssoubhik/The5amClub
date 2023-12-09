@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UIAppFonts</key>
+	<array>
+		<string>MartianBThai-Black.otf</string>
+		<string>MartianBThai-Bold.otf</string>
+		<string>MartianBThai-ExtraBlack.otf</string>
+		<string>MartianBThai-Light.otf</string>
+		<string>MartianBThai-Medium.otf</string>
+		<string>MartianBThai-Regular.otf</string>
+		<string>MartianBThai-SemiBold.otf</string>
+		<string>MartianBThai-Thin.otf</string>
+		<string>MartianBThai-UltraLight.otf</string>
+	</array>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>This allows The5amClub to use your current location to find near by hubs</string>
+</dict>
+</plist>
